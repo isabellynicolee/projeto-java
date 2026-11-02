@@ -6,7 +6,7 @@ Exercícios da disciplina de Projeto Prático Integrado - Orientação a Objetos
 
 | Pasta | Tema |
 |---|---|
-| 00-modelagem-de-classes | Modelagem de classes em UML - Plano de saúde |
+| modelagem-de-classes | Modelagem de classes em UML - Plano de saúde |
 | 01-javascript-orientado-a-objetos | JavaScript orientado a objetos |
 <!-- | 04-javascript-fetch | Consumo de API com JavaScript Fetch |
 | 05-jdbc-banco-de-dados | JDBC e banco de dados |
