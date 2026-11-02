@@ -1,5 +1,3 @@
-# projeto-java
-Exercícios da disciplina de Projeto 
 # Projeto Java - Exercícios da Faculdade
 
 Exercícios da disciplina de Projeto Prático Integrado - Orientação a Objetos e Desenvolvimento de Aplicativos
